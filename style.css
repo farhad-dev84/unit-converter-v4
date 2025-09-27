@@ -1,0 +1,22 @@
+body {
+  transition : background-color 0.3s , color 0.3s;
+}
+
+.light-theme {
+  background-color : #f9f9f9 ;
+  color : #222 ;
+}
+
+.dark-theme {
+  background-color : #222 ;
+  color : #f9f9f9 ;
+}
+
+.card {
+  border-radius : 1.5rem ;
+}
+
+#result {
+  font-weight : bold ;
+  text-align : center ;
+}
